@@ -70,7 +70,7 @@ LogSynth operates as an **offline enrichment pipeline** that bridges the gap bet
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/logsynth.git
+git clone https://github.com/Dmelii/logsynth.git
 cd logsynth
 ```
 
