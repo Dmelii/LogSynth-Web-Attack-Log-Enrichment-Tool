@@ -171,6 +171,6 @@ MIT License
 
 ## Author
 
-Developed as part of **Final CTF Helper Tool (Week 6–7)**  
+Developed as part of **Final CTF Helper Tool**  
 College of Computer Science & Engineering  
 University of Jeddah
